@@ -3,6 +3,9 @@
     margin: 0;
     padding: 0;
 }
+.cx{
+    font-size: large;
+}
 body {
     font-family: Arial, sans-serif;
     display: flex;
