@@ -3,9 +3,7 @@
     margin: 0;
     padding: 0;
 }
-.cx{
-    font-size: large;
-}
+
 body {
     font-family: Arial, sans-serif;
     display: flex;
@@ -25,11 +23,11 @@ body {
     position: fixed;
     top: 0;
 }
-.navbar a {
+/* .navbar a {
     color: black;
     text-decoration: none;
     padding: 14px 20px;
-}
+} */
 .navbar a:hover {
     background-color: #ddd;
     color: black;
